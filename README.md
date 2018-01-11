@@ -14,3 +14,7 @@ November 6, 2017: Discuss *Philosophy of the Spike*.
   Neuroscience,
   9(), 151. http://dx.doi.org/10.3389/fnsys.2015.00151
 
+# Future things to discuss
+
+- Objectivity in science
+    - [Free radicals comic](https://freerads.org/science-scope-full/)
